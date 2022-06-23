@@ -1,0 +1,10 @@
+img {
+  width: 100%;
+  height: 150px;
+}
+.row {
+  padding: 60px;
+}
+div {
+  background-color: rgb(221, 206, 242);
+}
